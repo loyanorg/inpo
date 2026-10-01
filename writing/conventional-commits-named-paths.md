@@ -23,7 +23,7 @@ applies-to:
 - One logical change per commit. Formatting-only changes are their own commit. A commit that needs "and also" in the subject should be split.
 - Breaking changes carry `!` after the type and a `BREAKING CHANGE:` footer stating the migration step.
 - Reference the issue or spec by name in a footer (`Refs: specs/stock/stock-cannot-go-negative.yaml`), not only by number.
-- When a pattern from this library was used, cite it in the body: "Pattern: inspiration/code-patterns/result-error-as-value".
+- When a pattern from this library was used, cite it in the body: "Pattern: inpo/code-patterns/result-error-as-value".
 - PR description mirrors the commit body and adds: how it was verified (command and pasted result), and what was deliberately left out.
 
 ## Leave

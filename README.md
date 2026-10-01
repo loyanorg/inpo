@@ -7,7 +7,7 @@ A library of named, well-regarded references that Claude Code sessions and other
 1. Read this file's index.
 2. Open the entries whose `applies-to` matches the task at hand.
 3. Borrow the patterns listed under **Take**. Respect **Leave**.
-4. Cite the entry by name in your rationale, commit message, PR description or design note (for example "Pattern: inspiration/design/stripe-dashboard-figures").
+4. Cite the entry by name in your rationale, commit message, PR description or design note (for example "Pattern: inpo/design/stripe-dashboard-figures").
 5. The project's own conventions always win over an entry here.
 6. Never copy branding, voice, or licensed code verbatim. Take patterns and structure, not text or assets.
 7. Never re-propose anything in the Rejected section below.
@@ -30,7 +30,7 @@ Add this line to the project's `AGENTS.md` or `CLAUDE.md`:
 Shallow-clone it into a sibling folder:
 
 ```sh
-git clone --depth 1 https://github.com/loyanorg/inpo ../inspiration
+git clone --depth 1 https://github.com/loyanorg/inpo ../inpo
 ```
 
 ## Index

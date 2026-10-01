@@ -1,4 +1,4 @@
-# AGENTS.md — inspiration
+# AGENTS.md — inpo
 
 1. This repo is a reference library for coding agents, not a product. Every file under `design/`, `code-patterns/`, `architecture/`, `writing/`, `prompts/` is one entry.
 2. Start with `README.md`: it holds the index (per kind, with status and applies-to) and the Rejected list.
